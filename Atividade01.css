@@ -1,0 +1,31 @@
+.mae {
+    background-color: #f3d633;
+    height: 600px; 
+    width: 600px;
+}
+
+#filha1 {
+    background-color: #7f88c7;
+    width: 800px;
+    height: 800px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+        background-color: rgb(49, 49, 49);
+        font-size: 38px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+}
+
+#filha4 {
+    width: 70%;
+    height: 70vh;
+    background-color: rgb(102, 44, 44);
+}
+
+#filha5 {
+    width: 75vw;
+    height: 400px;
+    background-color: rgb(132, 132, 132);
+}
